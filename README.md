@@ -13,12 +13,6 @@ Quantum computers require robust error correction to scale. This project impleme
 - **Comprehensive evaluation** (Success rates, logical error rates, decode times)
 - **Automatic experiment logging** (Track all experiments with timestamps, parameters, and results)
 
-## Latest Results
-
-**4×4 Toric Code (32 qubits, 5% error rate):**
-- GNN Attention: **84.8% success**, 2.8ms decode time
-- Belief Propagation: 87.4% success, 31.8ms decode time
-- **GNN achieves 11× speedup** with competitive accuracy
 
 ## Project Structure
 
