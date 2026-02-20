@@ -652,17 +652,7 @@ See the conversation history for detailed FPGA implementation strategy.
 - Try different model architectures
 - Adjust hyperparameters (learning rate, layers)
 
-## Citation
 
-If you use this code in your research, please cite:
-
-```
-@misc{gnn-qldpc-decoder,
-  title={Graph Neural Network Decoders for Quantum LDPC Codes},
-  author={Your Name},
-  year={2025}
-}
-```
 
 ## References
 
